@@ -1,6 +1,6 @@
 .inputChild {
   background: #00bafc;
-  width: 100%;
+  max-width: 100%;
   height: 543px;
   color: white;
 }

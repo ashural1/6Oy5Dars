@@ -8,7 +8,7 @@ function PagesHeader() {
           <img src="/logoImg.svg" alt="logo img" />
         </Link>
       </div>
-      <div className="navBar">
+      <div className="navBar" >
         <nav>
           <ul>
             <li>
@@ -31,7 +31,7 @@ function PagesHeader() {
             </li>
           </ul>
         </nav>
-        <button>+998 90 921 37 11</button>
+        <button className="btn btn-active btn-primary ">+998 90 921 37 11</button>
       </div>
     </div>
   );

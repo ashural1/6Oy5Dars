@@ -9,15 +9,17 @@
 }
 
 .hero_description h3 {
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 700;
   line-height: 39px;
   text-align: left;
   margin-bottom: 16px;
+  margin-left: 45px;
 }
 
 .hero_description p {
   margin-bottom: 16px;
+  margin-left: 50px;
 }
 .hero_img img {
   border-radius: 5px;
@@ -34,4 +36,5 @@
   border-radius: 5px 5px 5px 5px;
   opacity: 0px;
   cursor: pointer;
+  margin-left: 50px;
 }

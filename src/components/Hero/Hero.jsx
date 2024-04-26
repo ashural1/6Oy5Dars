@@ -5,7 +5,7 @@ function Hero() {
     <div className="HeroWrapper">
       <div className="hero_description">
         <h3>Biznesingizni keyingi bosqichga olib chiqing</h3>
-        <p>
+        <p className="pat">
           Nullam laoreet nec turpis et ultrices. Duis sit amet quam arcu. Nam
           facilisis lacinia ex, eget sollicitudin massa pellentesque in. Vivamus
           mattis eros at sem pulvinar
